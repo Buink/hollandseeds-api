@@ -6,6 +6,6 @@ class CategoryController extends Controller
 {
     public function index(): array
     {
-        return ['Феминизированые','Регулярные', 'Автоцвет', 'Конец Сентября', 'КБД', 'Без ТГК'];
+        return ['Feminized','Regular', 'Autoflower', 'End of September', 'CBD', 'No TGK'];
     }
 }
